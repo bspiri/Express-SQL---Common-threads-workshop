@@ -5,7 +5,7 @@ A Rest API training application which performs CRUD operations
 ## Technologies used:
 
 - Express.js
-- Express router
+- Express.js router
 - MySQL
-- Nodemon
-- Body-parser
+- nodemon
+- body-parser
